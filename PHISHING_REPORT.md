@@ -24,6 +24,7 @@
 ---
 
 ## analyze my findings
+- the sender is automated system its maybe attacker bot `Mail Delivery System <Mailer-Daemon@se7-syd.hostedmail.net.au>` 
 - by analyzing headers of the email arc-authentication-results spf=none; dmarc=none; dkim=none; arc=none 
 🚨 Red Flag:
 
