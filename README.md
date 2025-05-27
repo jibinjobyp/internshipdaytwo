@@ -5,6 +5,7 @@ This project analyzes a sample phishing email to identify common phishing charac
 
 ## Tools Used
 - Email client thunderbird (for reading the email)
+- mxtoolbox tool
 - Free online email header analyzer (e.g., [Google Toolbox Email Header Analyzer](https://toolbox.googleapps.com/apps/emailheaders/))
 - Terminal commands for Git and GitHub interaction
 
