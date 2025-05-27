@@ -38,7 +38,8 @@
 
 
 ## Phishing indicator found
-- **extracted url from the email** `https://35000usdperwwekpodf.blogspot.sg?p=9swghttps://35000usdperwwekpodf.blogspot.co.il?o=0hnd` its suspicious url confirm with `virustotal`.
+- **extracted url from the email** `https://35000usdperwwekpodf.blogspot.sg?p=9swg
+  https://35000usdperwwekpodf.blogspot.co.il?o=0hnd` its suspicious url confirm with `virustotal`.
 - **Sender Address:** The email appears from `Mail Delivery System <Mailer-Daemon@se7-syd.hostedmail.net.au>` .  
 - **Email Headers:** SPF and DKIM checks failed, showing the email was not authorized by the claimed sender.  
 - **Suspicious Links:** The displayed URLs do not match the actual link targets, which lead to a malicious website.  
